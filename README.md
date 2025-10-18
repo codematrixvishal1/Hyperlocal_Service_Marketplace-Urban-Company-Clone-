@@ -22,7 +22,7 @@ service-marketplace/
 - ├── README.md           # Setup Guide
 - └── LICENSE
 
-git clone https://github.com/thevishalsaini/Hyperlocal_Service_Marketplace.git
+git clone (https://github.com/codematrixvishal1/Hyperlocal_Service_Marketplace-Urban-Company-Clone-.git)
 
 - cd backend && npm install
 - cd ../frontend && npm install
